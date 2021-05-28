@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Stanislav.
 
-<!--
-**St-Dem/St-Dem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a backend developer.
+- 💪 I like to write code
+- 🥅 I am constantly learning new things
+- ⚡ I love tech english and try to speak with native speaker
+- 🤹🏽 I like watch educational videos on youtube 
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img align="left" alt="StDem | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][e-mail]
+[<img align="left" alt="StDem | Phone" width="22px" src="https://www.flaticon.com/ru/free-icon/phone-contact_15895" />][phone]
+[<img align="left" alt="StDem | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="StDem | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
+
+[e-mail]: mailto:dmd.stanislav@gmail.com
+[phone]: tel:+7 (926) 085 36 03
+[telegram]:  https://t.me/st_dem
+[skype]: https://join.skype.com/invite/L5lbTzJvXs0i
+
+<br />
