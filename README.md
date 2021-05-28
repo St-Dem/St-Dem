@@ -17,7 +17,7 @@
 <br />
 
 [e-mail]: mailto:dmd.stanislav@gmail.com
-[phone]: tel:+74951234567
+[phone]: tel:+79260853603
 [telegram]: https://t.me/st_dem
 [skype]: https://join.skype.com/invite/L5lbTzJvXs0i
 
