@@ -16,7 +16,6 @@
 <br />
 
 [e-mail]: mailto:dmd.stanislav@gmail.com
-
 [telegram]: https://t.me/st_dem
 [skype]: https://join.skype.com/invite/L5lbTzJvXs0i
 
