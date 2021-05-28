@@ -16,10 +16,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="30px"  src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" />
-<img align="left" alt="Tomcat" width="40px"  src="https://symbols.getvecta.com/stencil_74/42_apache-tomcat-icon.5ca6b043f3.svg" />
-<img align="left" alt="Spring" width="50px" src="https://symbols.getvecta.com/stencil_96/67_spring-framework.c46ab15b10.svg" />
-<img align="left" alt="Hibernate" width="50px" src="https://symbols.getvecta.com/stencil_83/45_hibernate.6b06d34c6c.svg" />
+<img align="left" alt="Java" width="35px"  src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" />
+<img align="left" alt="Tomcat" width="47px"  src="https://symbols.getvecta.com/stencil_74/42_apache-tomcat-icon.5ca6b043f3.svg" />
+<img align="left" alt="Spring" width="60px" src="https://symbols.getvecta.com/stencil_96/67_spring-framework.c46ab15b10.svg" />
+<img align="left" alt="Hibernate" width="80px" src="https://symbols.getvecta.com/stencil_83/45_hibernate.6b06d34c6c.svg" />
 <br />
 
 [e-mail]: mailto:dmd.stanislav@gmail.com
