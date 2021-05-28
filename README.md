@@ -26,8 +26,8 @@
 <img align="left" alt="Bootstrap" width="50px" height = "35px" src="https://symbols.getvecta.com/stencil_75/112_bootstrap.1251e6b79f.svg" />
 <img align="left" alt="Ajax" width="47px" height = "35px" src="https://pic.onlinewebfonts.com/svg/img_174096.png" />
 <img align="left" alt="JQuery" width="75px" height = "35px" src="https://symbols.getvecta.com/stencil_85/38_jquery.f0787835ce.svg" />
-<img align="left" alt="HTML5" width="60px" height = "35px" src="https://symbols.getvecta.com/stencil_25/35_html5.63ca2940ce.svg" />
-<img align="left" alt="CSS" width="60px" height = "35px" src="https://symbols.getvecta.com/stencil_25/14_css3.3ce30826ea.svg" />
+<img align="left" alt="HTML5" width="60px" height = "25px" src="https://symbols.getvecta.com/stencil_25/35_html5.63ca2940ce.svg" />
+<img align="left" alt="CSS" width="60px" height = "25px" src="https://symbols.getvecta.com/stencil_25/14_css3.3ce30826ea.svg" />
 
 <br />
 
