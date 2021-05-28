@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="StDem | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][e-mail]
-[<img align="left" alt="StDem | Phone" width="22px" src="https://www.flaticon.com/ru/free-icon/phone-contact_15895" />][phone]
+[<img align="left" alt="StDem | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephonegap.svg" />][phone]
 [<img align="left" alt="StDem | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="StDem | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
 
