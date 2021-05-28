@@ -17,8 +17,8 @@
 <br />
 
 [e-mail]: mailto:dmd.stanislav@gmail.com
-[phone]: tel:+7 (926) 085 36 03
-[telegram]:  https://t.me/st_dem
+[phone]: tel:+7(926)0853603
+[telegram]: https://t.me/st_dem
 [skype]: https://join.skype.com/invite/L5lbTzJvXs0i
 
 
