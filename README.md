@@ -22,7 +22,10 @@
 <img align="left" alt="Hibernate" width="70px" height = "35px" src="https://symbols.getvecta.com/stencil_83/45_hibernate.6b06d34c6c.svg" />
 <img align="left" alt="Maven" width="70px" height = "35px" src="https://symbols.getvecta.com/stencil_74/17_apache-maven.f372e99dfa.svg" />
 <img align="left" alt="JUnit" width="40px" height = "25px" src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png" />
-<img align="left" alt="Maven" width="60px" height = "35px" src="https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.75a997fb76.svg" />
+<img align="left" alt="PostgreSQL" width="60px" height = "35px" src="https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.75a997fb76.svg" />
+<img align="left" alt="Bootstrap" width="60px" height = "35px" src="https://symbols.getvecta.com/stencil_75/112_bootstrap.1251e6b79f.svg" />
+<img align="left" alt="Ajax" width="50px" height = "35px" src="https://pic.onlinewebfonts.com/svg/img_174096.png" />
+<img align="left" alt="JQuery" width="80px" height = "35px" src="https://symbols.getvecta.com/stencil_85/38_jquery.f0787835ce.svg" />
 <br />
 
 [e-mail]: mailto:dmd.stanislav@gmail.com
