@@ -14,9 +14,11 @@
 [<img align="left" alt="StDem | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="StDem | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
 
+<br />
+
 [e-mail]: mailto:dmd.stanislav@gmail.com
 [phone]: tel:+7 (926) 085 36 03
 [telegram]:  https://t.me/st_dem
 [skype]: https://join.skype.com/invite/L5lbTzJvXs0i
 
-<br />
+
