@@ -17,8 +17,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="35px" height = "35px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" />
-<img align="left" alt="Tomcat" width="42px" height = "35px" src="https://www.logosvgpng.com/wp-content/uploads/2021/03/hibernate-org-logo-vector.png" />
-<img align="left" alt="Spring" width="78px" height = "55px" src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" />
+<img align="left" alt="Tomcat" width="42px" height = "35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/768px-Apache_Tomcat_logo.svg.png" />
+<img align="left" alt="Spring" width="88px" height = "55px" src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" />
 <img align="left" alt="Hibernate" width="67px" height = "35px" src="https://symbols.getvecta.com/stencil_83/45_hibernate.6b06d34c6c.svg" />
 <img align="left" alt="Maven" width="60px" height = "30px" src="https://symbols.getvecta.com/stencil_74/17_apache-maven.f372e99dfa.svg" />
 <img align="left" alt="JUnit" width="40px" height = "25px" src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png" />
