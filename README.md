@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="35px" height = "35px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" />
-<img align="left" alt="Tomcat" width="42px" height = "35px" src="https://symbols.getvecta.com/stencil_74/42_apache-tomcat-icon.5ca6b043f3.svg" />
+<img align="left" alt="Tomcat" width="42px" height = "35px" src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" />
 <img align="left" alt="Spring" width="58px" height = "35px" src="https://symbols.getvecta.com/stencil_96/67_spring-framework.c46ab15b10.svg" />
 <img align="left" alt="Hibernate" width="67px" height = "35px" src="https://symbols.getvecta.com/stencil_83/45_hibernate.6b06d34c6c.svg" />
 <img align="left" alt="Maven" width="60px" height = "30px" src="https://symbols.getvecta.com/stencil_74/17_apache-maven.f372e99dfa.svg" />
